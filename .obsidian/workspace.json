@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b392c9d9d6debf0",
+        "id": "b9b98573cff047dd",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab0ac4944a35233",
+            "id": "97e38121432e5910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Play Integrity API.md",
+                "file": "Clippings/Integrity verdicts    Play Integrity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Play Integrity API"
+              "title": "Integrity verdicts    Play Integrity"
             }
           }
         ]
@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ab0ac4944a35233",
+  "active": "97e38121432e5910",
   "lastOpenFiles": [
+    "Clippings/Migrating build logic from Groovy to Kotlin.md",
+    "Clippings/Integrity verdicts    Play Integrity.md",
+    "Clippings/Photo by Casey Horner on Unsplash.md",
+    "Clippings",
     "Play Integrity API.md",
     "BASH.md",
     "Welcome.md"
