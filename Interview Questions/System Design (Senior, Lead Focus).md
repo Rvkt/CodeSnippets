@@ -1,5 +1,5 @@
-1. Design a scalable mobile app architecture for 1M+ users.
-2. How would you design an offline-first Flutter application?
-3. Explain how you would handle real-time updates (Web Sockets, Firebase, polling).
-4. How do you structure a Flutter app that supports multiple business domains?
-5. How do you plan app architecture for long-term maintainability (3–5 years)?
+1. [[Design a scalable mobile app architecture for 1M+ users.]]
+2. [[How would you design an offline-first Flutter application.]]
+3. [[Explain how you would handle real-time updates (Web Sockets, Firebase, polling).]]
+4. [[How do you structure a Flutter app that supports multiple business domains.]]
+5. [[How do you plan app architecture for long-term maintainability (3–5 years).]]
