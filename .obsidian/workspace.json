@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6f11c876922749",
+        "id": "c85f1e8174dad350",
         "type": "tabs",
         "children": [
           {
-            "id": "a331fe3794956de1",
+            "id": "6d58af9877344713",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "What strategies do you use for database optimization in Django..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What strategies do you use for database optimization in Django."
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 520.5
   },
   "right": {
     "id": "2ac3af844968bae2",
@@ -179,36 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "a331fe3794956de1",
+  "active": "6d58af9877344713",
   "lastOpenFiles": [
-    "Interview Questions/What challenges have you faced when upgrading Flutter SDK versions in production apps.md",
-    "Interview Questions/Why we should hire you.md",
-    "Interview Questions/What’s your salary expectation.md",
-    "Interview Questions/Describe how Flutter’s rendering pipeline works and how it impacts performance..md",
-    "Interview Questions/Interview Prep.md",
-    "Interview Questions/Why you want to join this company.md",
-    "Interview Questions/Security & Authentication.md",
-    "Interview Questions/System Design (Senior, Lead Focus).md",
-    "Interview Questions/UI UX & Design Systems (Figma, Illustrator).md",
-    "Interview Questions/Performance, Debugging & Optimization.md",
-    "Interview Questions/Native Integration (Android – Kotlin).md",
-    "Interview Questions/Flutter & Cross-Platform Architecture.md",
     "Interview Questions/Backend & API Integration (Python, Django, DRF).md",
-    "Aeps _onProceed.md",
-    "Explain the difference between Isolates, async/await, and compute(). When would you use each.md",
-    "Interview Questions/How do you ensure pixel-perfect UI across different screen sizes and platforms.md",
-    "Interview Questions/Describe your approach to handling large lists, pagination, and memory leaks..md",
-    "Interview Questions/How do you manage flavors (dev, staging, prod) and environment configurations in Flutter.md",
-    "Interview Questions/Explain the difference between Isolates, async, await, and compute(). When would you use each.md",
-    "Explain the difference between Isolates, async",
-    "Interview Questions/How do you optimize Flutter apps for low-end devices.md",
-    "Interview Questions/How do you design a scalable Flutter architecture for a large app with multiple teams working in parallel.md",
-    "Interview Questions/How do you handle app modularization in Flutter for maintainability.md",
-    "Interview Questions/Explain the state management approach you prefer for enterprise apps (Bloc, Riverpod, Provider, Redux). Why.md",
-    "Actual File Name.md",
+    "What strategies do you use for database optimization in Django..md",
+    "How do you handle API versioning without breaking existing clients..md",
+    "Explain how Django Rest Framework authentication works (JWT, Token, OAuth)..md",
+    "How do you design REST APIs for mobile apps considering performance and scalability..md",
+    "Interview Questions/Interview Prep.md",
+    "Interview Questions/Native Integration (Android – Kotlin).md",
+    "Interview Questions/How do you protect apps from reverse engineering..md",
+    "Interview Questions/Security & Authentication.md",
+    "Interview Questions/How do you implement role-based access control in mobile apps..md",
+    "Interview Questions/What are the pros and cons of SharedPreferences vs Secure Storage..md",
+    "Interview Questions/How do you securely store tokens in Flutter..md",
+    "Interview Questions/Performance, Debugging & Optimization.md",
+    "Interview Questions/What are the limitations of Flutter that require native code intervention..md",
+    "Interview Questions/Preventing suspicious activity using Keystore-backed keys and Device ID.md",
+    "Interview Questions/How do you secure biometric authentication at the native level..md",
+    "Interview Questions/How do you handle threading and lifecycle issues when communicating between Flutter and Android..md",
+    "ANRs.md",
+    "Interview Questions/Describe a real use case where you implemented native Android features in Flutter..md",
+    "Interview Questions/How do Method Channels work internally in Flutter..md",
+    "RPC.md",
+    "Interview Questions/System Design (Senior, Lead Focus).md",
     "Interview Questions/Tell me about yourself.md",
+    "Interview Questions/What challenges have you faced when upgrading Flutter SDK versions in production apps.md",
+    "Interview Questions/Why you want to join this company.md",
+    "Interview Questions/Why we should hire you.md",
+    "Explain the difference between Isolates, async",
     "ORIGIN.base",
-    "Interview Questions.md",
     "Interview Questions",
     "Clippings"
   ]

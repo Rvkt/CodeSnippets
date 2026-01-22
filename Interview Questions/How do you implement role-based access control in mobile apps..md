@@ -1,0 +1,2 @@
+
+> “I implement RBAC by enforcing roles on the backend, issuing role-scoped tokens, and letting the mobile app only control UI visibility. The app never decides permissions; it only reads the role from the token and reacts, while the backend remains the single source of truth.”

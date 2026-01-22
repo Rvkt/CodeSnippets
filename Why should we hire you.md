@@ -1,0 +1,1 @@
+I bring hands-on experience in building real production Flutter apps, not just UI screens. I’m comfortable working independently, integrating APIs, fixing edge-case bugs, and maintaining code quality. With my experience, I can contribute quickly while still being open to learning and improving. ^9bddf5
