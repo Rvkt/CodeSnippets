@@ -1,0 +1,1 @@
+Managing asynchronous tasks in Django is typically done using **Celery** with **Redis** (or RabbitMQ) as a message broker. This setup allows you to run time-consuming or scheduled tasks (like sending emails, processing files, etc.) in the background without blocking your web requests.
